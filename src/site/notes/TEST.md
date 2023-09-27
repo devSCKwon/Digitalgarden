@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test/","title":"TEST"}
+{"title":"TEST","dg-publish":true,"permalink":"/TEST/","dgPassFrontmatter":true}
 ---
 
 1. 등록 테스트
