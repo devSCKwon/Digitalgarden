@@ -1,5 +1,5 @@
 ---
-{"title":"TEST","dg-publish":true,"dg-pinned":true,"permalink":"/99-doc/test/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"title":"TEST","dg-publish":true,"dg-pinned":true,"dg-permalink":"myNote","permalink":"/myNote/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 1. 등록 테스트[[99_DOC/dogs\|dogs]]
