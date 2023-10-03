@@ -5,9 +5,9 @@
 
 This is a second note with a poem with cats. 
 
-Here's a link to a note that explains why it's important to [[99_DOC/TEST\|TEST]]
+Here's a link to a note that explains why it's important to
 
-링크테스트
+링크테스트 [[99_DOC/TEST\|TEST]]
 
 > I like my pillow, my fancy bed,
 >
